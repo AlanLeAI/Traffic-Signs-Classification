@@ -1,4 +1,4 @@
-# Dog or Cat
+# Traffic Signs Classification
 
 [Play with the App](https://dogorcat.herokuapp.com/)
 
