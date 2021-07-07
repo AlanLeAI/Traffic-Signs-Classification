@@ -4,7 +4,10 @@
 A simple Flask App that can classify traffic signs on road 
 using a convolutional neural network model.
 
+## How to use the tool?
 
+Dowload github and install the below tools then run the command line
+`python app.py`
 
 ## Tools Used:
 * Tensorflow
